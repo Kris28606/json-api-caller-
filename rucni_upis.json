@@ -1,0 +1,9 @@
+{
+  "city": "Lima",
+  "country": "Peru",
+  "region": "Središnji deo Perua",
+  "temperature": 25,
+  "weatherDescription": "Sunčano",
+  "windSpeed": 18,
+  "isDay": "yes"
+}
