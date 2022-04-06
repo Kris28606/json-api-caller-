@@ -1,0 +1,29 @@
+[
+  {
+    "city": "Beograd",
+    "country": "Srbija",
+    "region": "Centralna Srbija",
+    "temperature": 19,
+    "weatherDescription": "Vedro sa periodičnim naoblačenjem",
+    "windSpeed": 13,
+    "isDay": false
+  },
+  {
+    "city": "Niš",
+    "country": "Srbija",
+    "region": "Južna Srbija",
+    "temperature": 18,
+    "weatherDescription": "Vedro",
+    "windSpeed": 6,
+    "isDay": false
+  },
+  {
+    "city": "Subotica",
+    "country": "Srbija",
+    "region": "Severna Srbija",
+    "temperature": 17,
+    "weatherDescription": "Delimično oblačno",
+    "windSpeed": 11,
+    "isDay": false
+  }
+]
